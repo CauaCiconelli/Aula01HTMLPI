@@ -1,0 +1,27 @@
+#divUm{
+    height: 400px; 
+    width: 410px;
+    background-color: #4d33c4;
+}
+#divDois{
+    height: 50%;
+    width: 50%; 
+    background-color: #20703b;
+}
+#parag{
+    background-color: rgb(204, 92, 17); 
+    color: rgb(92, 78, 14); 
+    font-size: 15px; 
+    font-family: courier; 
+    font-weight: 14;
+}
+#divTres{
+    width: 50%; 
+    height: 20vh; 
+    background-color: rgb(226, 173, 94);
+}
+#divQuatro{
+    width: 20vw; 
+    height: 50%; 
+    background-color: rgb(16, 17, 82);
+}
