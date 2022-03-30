@@ -17,11 +17,11 @@
 }
 #divTres{
     width: 50%; 
-    height: 120px; 
+    height: 25vh; 
     background-color: rgb(226, 173, 94);
 }
 #divQuatro{
-    width: 120px; 
+    width: 25vw; 
     height: 50%; 
     background-color: rgb(16, 17, 82);
 }
